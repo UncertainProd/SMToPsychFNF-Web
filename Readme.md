@@ -3,7 +3,8 @@
 ### This is a web version of my older python project which converts Stepmania/Etterna Charts (*.sm files) into FNF JSON files, which are compatible with the Psych-engine (as of v0.6.2)
 #### Ported over from Python to Haxe
 
-Check it out <a href="">here</a>.
+<!-- Check it out <a href="">here</a>. -->
+Link to it is coming soon :)
 
 #### Note: Does not support *.ssc files or json to sm conversion just yet
 
