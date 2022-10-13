@@ -1,0 +1,3 @@
+--main WebMain
+--class-path .
+--js myfrontend/hxindex.js
