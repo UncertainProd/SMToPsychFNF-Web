@@ -7,7 +7,9 @@ Check it out <a href="https://uncertainprod.github.io/smtopsychjson/index.html">
 
 #### Note: Does not support *.ssc files or json to sm conversion just yet
 
-The program allows pretty much any chart in any *.sm file to be converted into Psych-engine. Just answer the questions that the program asks you when you run it and it should generate the JSON file in the same folder where you ran it.
+The program allows pretty much any chart in any *.sm file to be converted into Psych-engine. Just select the SM file, fill in the form and it should generate the resulting JSON file as a download.
+
+<img src="./docs/usage.png">
 
 
 #### Side Note: If you're converting a 4k chart instead of an 8k chart. Be sure to check the checkbox labelled "Flip chart" if you want bf (the player character) to get all the notes.
