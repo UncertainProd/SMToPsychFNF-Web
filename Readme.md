@@ -14,4 +14,8 @@ The program allows pretty much any chart in any *.sm file to be converted into P
 
 #### Side Note: If you're converting a 4k chart instead of an 8k chart. Be sure to check the checkbox labelled "Flip chart" if you want bf (the player character) to get all the notes.
 
+SM files can be generated either using Stepmania or using <a href="https://arrowvortex.ddrnl.com/">ArrowVortex</a>, among other simfile editors.
+
 **Warning** : This program will generate charts for any game mode (dance-single, dance-double, pump-single etc) although for Stepmania game modes that do not have 4 or 8 keys, the resulting json chart may not work as intended, so best stick to dance-single (only bf/opponent gets notes) or dance-double (for both bf and the opponent) charts alone. Currently does not support negBPM charts (They seem to get de-synced) but can handle bpm changes for the most part.
+
+The older python project: <a href="https://github.com/UncertainProd/SMtoPsychFNF">SMToPsychFNF</a>
