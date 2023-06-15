@@ -3,9 +3,9 @@
 ### This is a web version of my older python project which converts Stepmania/Etterna Charts (*.sm files) into FNF JSON files, which are compatible with the Psych-engine (as of v0.6.2)
 #### Ported over from Python to Haxe
 
-Check it out <a href="https://uncertainprod.github.io/smtopsychjson/index.html">here</a>.
+Check it out [here](https://uncertainprod.github.io/SMToPsychFNF-Web/).
 
-#### Note: Does not support *.ssc files or json to sm conversion just yet
+#### Note: Does not support *.ssc files or json to sm conversion yet
 
 The program allows pretty much any chart in any *.sm file to be converted into Psych-engine. Just select the SM file, fill in the form and it should generate the resulting JSON file as a download.
 
